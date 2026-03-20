@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://damjulie-services.github.io/sitemap.xml
